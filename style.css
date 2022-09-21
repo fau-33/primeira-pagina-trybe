@@ -1,0 +1,44 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p, li {
+  font-size: 16px;
+  color: #323f3a;
+}
+
+h1, h2, h3 {
+  color: #0a7e51;
+}
+
+.picture {
+  border-radius: 100%;
+}
+
+.hero-title {
+  color: #0a7e51;
+  line-height: 55px;
+  font-weight: 600;
+  font-size: 45px;
+}
+
+.section-title {
+  line-height: 42px;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+.testimonials-name {
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.button {
+  background-color: #11a36a;
+  color: #fff;
+  border: 4px;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 16px;
+}
