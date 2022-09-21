@@ -11,6 +11,10 @@ h1, h2, h3 {
   color: #0a7e51;
 }
 
+.picture {
+  border-radius: 100%;
+}
+
 .hero-title {
   color: #0a7e51;
   line-height: 55px;
@@ -22,4 +26,19 @@ h1, h2, h3 {
   line-height: 42px;
   font-weight: 600;
   font-size: 28px;
+}
+
+.testimonials-name {
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.button {
+  background-color: #11a36a;
+  color: #fff;
+  border: 4px;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 16px;
 }
